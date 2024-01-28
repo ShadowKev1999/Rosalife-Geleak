@@ -1,0 +1,2 @@
+[30.03.2023 15:21:56] [plugins/mysql] cache_get_value_name_int: value '' is not a number
+[30.03.2023 15:22:00] [plugins/mysql] mysql_format: destination size '256' is too small
